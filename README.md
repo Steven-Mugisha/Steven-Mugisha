@@ -1,5 +1,5 @@
 <h1 align="center">✌🏾 Hi,  I am Steven Mugisha Mizero</h1>
-<h3 align="center">"Step into the world of a software developer where imagination runs wild"</h3>
+<h3 align="center">"Step into the world of a software developer whose imagination runs wild"</h3>
 
 - 👨🏿‍💻 Currently working on [navigating file system with rust](https://github.com/Steven-Mugisha/navigate_with_rust)
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available @[portfolio](https://steven-mugisha.github.io/portfolio/#portfolio)
 
-- 💬 Ask me about **Machine Learning, DSA, Rust, Decentralized Data Ecosystems**
+- 💬 Ask me about **Data Structures & Algorithms, Rust, Decentralized Data Ecosystems**
 
 - ⚽️ Fun fact **I am a die-hard Manchester United fan**
 
