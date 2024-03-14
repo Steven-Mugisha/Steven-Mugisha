@@ -11,7 +11,7 @@
 
 - 🤖 **Machine Learning** enthusiast
 
-- 👨‍💻 All of my projects are available at [https://steven-mugisha.github.io/portfolio/](https://steven-mugisha.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://steven-mugisha.github.io/portfolio/](steven-mugisha.github.io/portfolio/)
 
 - 💬 Ask me about **DSA, Rust, Decentralized Data Ecosystems**
 
