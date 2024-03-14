@@ -13,16 +13,18 @@
 
 <h3 align="left">Reach me out!</h3>
 <p align="left">
-<a href="https://linkedin.com/in/steven mugisha mizero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven mugisha mizero" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/smugisha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven mugisha mizero" height="30" width="40" /></a>
 <a href="https://leetcode.com/Steven-Code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beat code" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Top Techonologies:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-            alt="aws" width="25" height="25" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"
+            alt="aws" width="25" height="25" /> </a>
+            <a href="https://azure.microsoft.com/en-in/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-            alt="azure" width="30" height="30" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
+            alt="azure" width="30" height="30" /> </a> 
+            <a href="https://www.djangoproject.com/" target="_blank"
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="25"
             height="25" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
