@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available @[portfolio](https://steven-mugisha.github.io/portfolio/#portfolio)
 
-- 💬 Ask me about **Data Structures & Algorithms, Rust, Decentralized Data Ecosystems**
+- 💬 Ask me about **Data Structures & Algorithms, Rust, and Decentralized Data Ecosystems**
 
 - ⚽️ Fun fact **I am a die-hard Manchester United fan**
 
