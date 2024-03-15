@@ -12,7 +12,7 @@
  
 >☕️ Reach me out!
 >
-[![Website](https://img.shields.io/badge/STEVEN-grey?style=for-the-badge)](https://steven-mugisha.github.io/portfolio/#portfolio)
+[![Website](https://img.shields.io/badge/PORTFOLIO-grey?style=for-the-badge)](https://steven-mugisha.github.io/portfolio/#portfolio)
 [![Website](https://img.shields.io/badge/LEETCODE-black?style=for-the-badge&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/Steven-Code/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/smugisha/)](https://www.linkedin.com/in/smugisha/)
 
