@@ -39,7 +39,7 @@
 <br/>
 
 <div align="center" style="margin-left: auto; margin-right: auto; max-width: 800px;">
-    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Mugisha&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=05&size_weight=0&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api?username=Steven-Mugisha&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=0" alt="readme stats" />
+    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-Mugisha&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api?username=Steven-Mugisha&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
