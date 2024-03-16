@@ -1,13 +1,15 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+80s+Fade&size=35&color=33A731FF&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+✌🏾;+I'm+Steven+Mugisha!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+80s+Fade&size=35&color=33A731FF&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+✌🏾;+I'm+Steven+Mugisha;" />
     
-🤖 **Machine Learning** enthusiast
+🤖 A **Software Developer** and **Machine Learning** enthusiast
 
-📞 Open for collaboration on different projects
+📞 Open for collaboration on **ML** or other **software projects**
 
-⚽️ Fun fact **I am a die-hard Manchester United fan**
+👨🏿‍💻 I am currently working on [navigating the File System with Rust](https://github.com/Steven-Mugisha/navigate_with_rust)
+
+⚽️ I play & watch soccer, and **a die-hard Manchester United fan**
  
-👨🏿‍💻 Currently working on [navigating the file system with rust](https://github.com/Steven-Mugisha/navigate_with_rust)
+
 
 </br>
 
