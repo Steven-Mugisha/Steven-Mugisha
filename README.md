@@ -1,7 +1,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+80s+Fade&size=35&color=33A731FF&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+✌🏾;+I'm+Steven+Mugisha;" />
     
-🤖 I am a **Software Engineer** and let's command the computers
+🤖 I am a **Software Engineer** and I like commanding computers
 
 🤜🏿 Here for some **software projects** and for some coffee ☕️ time
 
