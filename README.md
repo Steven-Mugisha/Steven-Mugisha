@@ -5,9 +5,9 @@
 
 🤜🏿 Here for some **software projects** and for some coffee ☕️ time
 
-👨🏿‍💻 Currently working on [drought-pakistan](https://github.com/Steven-Mugisha/drought_pakistan)
+👨🏿‍💻 Currently working on [nextBite](https://github.com/Steven-Mugisha/nextBite.git)
 
-⚽️ I play & watch soccer, and **a die-hard Manchester United fan**
+⚽️ **Manchester United** and **Brazil 🇧🇷**
  
 </br>
 
